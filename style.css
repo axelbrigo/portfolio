@@ -287,3 +287,10 @@ height: 35px;
  opacity: 0; 
  transform: scale(0.1, 1);  
 }
+
+.githubpages {
+    color: white;
+text-decoration: none;
+display: flex;
+justify-content: center;
+}
